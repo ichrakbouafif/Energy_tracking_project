@@ -1,0 +1,22 @@
+Description:
+
+* The data set contains laboratory values of blood donors and Hepatitis C patients and demographic values like age.
+* Instances are patients
+* All attributes except Category and Sex are numerical. The laboratory data are the attributes 5-14. 
+
+Attributes
+
+1) X (Patient ID/No.)
+2) Category (diagnosis) (values: '0=Blood Donor', '0s=suspect Blood Donor', '1=Hepatitis', '2=Fibrosis', '3=Cirrhosis')
+3) Age (in years)
+4) Sex (f,m)
+5) ALB: Albumin
+6) ALP : 
+7) ALT :  alanine amino-transferase
+8) AST : aspartate amino-transferase
+9) BIL : Bilirubin
+10) CHE: Choline esterase
+11) CHOL
+12) CREA
+13) GGT:  γ-glutamyl-transferase
+14) PROT
